@@ -1,7 +1,7 @@
-  # Queen-Anita_V4
+  # LORD_BRYAN-V1
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By 𝙻𝙾𝚁𝙳 𝙱𝚁𝚈𝙰𝙽  ⚡</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
