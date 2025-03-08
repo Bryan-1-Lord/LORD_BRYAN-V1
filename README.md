@@ -4,7 +4,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By 𝙻𝙾𝚁𝙳 𝙱𝚁𝚈𝙰𝙽  ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/jd0s4p.jpg"/>       
+<img src="https://i.imgur.com/RbaF9DT.jpeg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__QUEEN+ANITA-+V
                                         4__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+LORD+BRYAN;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
